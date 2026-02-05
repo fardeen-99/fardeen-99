@@ -4,19 +4,19 @@
 <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <h3>💫About Me:<br></h3>
-I'm a student persuing Btech in CS major 
+I'm a student persuing BCA in CS major 
 
 - 🔭 I’m currently working on Developing Skills
-- 📫 How to reach me **ankannew2024@gmail.com**
+- 📫 How to reach me **fardeenkhan@gmail.com**
 - 💬 Ask me about Data structures or Webdev
 - ⚡ Fun fact **AI is just a tool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ankan-nandi-57417a31a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fardeen Khan" height="30" width="40" /></a>
-<a href="https://instagram.com/_a.k.a._dracu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a.k.a._dracu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Ankan Nandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankan_elite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankan_elite" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohd-fardeen-b31307358/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fardeen Khan" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a.k.a._dracu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankan_elite" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
