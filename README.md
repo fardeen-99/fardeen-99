@@ -7,7 +7,7 @@
 I'm a student persuing BCA in CS major 
 
 - 🔭 I’m currently working on Developing Skills
-- 📫 How to reach me **fardeenkhan@gmail.com**
+- 📫 How to reach me **fardeenkhan63574@gmail.com**
 - 💬 Ask me about Data structures or Webdev
 - ⚡ Fun fact **AI is just a tool**
 
