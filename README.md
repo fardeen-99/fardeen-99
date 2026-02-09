@@ -48,13 +48,14 @@ I'm a student persuing BCA in CS major
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Welcome+to+Fardeen's+GitHub!;Check+out+my+stats+below..." alt="Typing SVG" />
 </p>
 
-![Fardeen's GitHub stats](https://github-readme-stats-x1t9.vercel.app/api?username=DebugZero0&show_icons=true&theme=merko&hide_border=true)
+![Fardeen's GitHub stats](https://github-readme-stats-x1t9.vercel.app/api?username=fardeen-99&show_icons=true&theme=merko&hide_border=true)
 
-![Top Langs](https://github-readme-stats-x1t9.vercel.app/api/top-langs/?username=DebugZero0&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats-x1t9.vercel.app/api/top-langs/?username=fardeen-99&layout=compact&theme=merko)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DebugZero0&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com?user=fardeen-99&theme=merko)
 
-![](https://github-contributor-stats.vercel.app/api?username=DebugZero0&limit=5&theme=github_dark&bg_color=000000&radius=16&text_color=0496FF&hide_border=true&combine_all_yearly_contributions=true)
+
+
 
 <hr>
 
