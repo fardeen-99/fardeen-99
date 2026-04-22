@@ -12,7 +12,7 @@ I'm a student persuing BCA in CS major
 - ⚡ Fun fact **AI is just a tool**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p style="display: flex; justify-content: flex-start;">
 <a href="https://www.linkedin.com/in/mohd-fardeen-b31307358/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fardeen Khan" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a.k.a._dracu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
